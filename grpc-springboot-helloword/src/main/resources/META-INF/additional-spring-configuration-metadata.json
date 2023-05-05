@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "grpc.server.port",
+      "type": "java.lang.String",
+      "description": "Description for grpc.server.port."
+    },
+    {
+      "name": "grpc.http.port",
+      "type": "java.lang.String",
+      "description": "Description for grpc.http.port."
+    }
+  ] }
